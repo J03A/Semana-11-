@@ -1,0 +1,85 @@
+body {background-image:url(https://cdns3.eltiempo.es/eltiempo/blog/noticias/2017/04/18152922/deseos-con-las-estrellas-fugaces.jpg)no-repeat;}
+h1{
+  display:flex;
+  border:2px; 
+  font-family:sans-serif;
+  font-size:3em;
+  margin-left:20px;
+
+
+}
+nav {  display:flex;
+ text-align:right;
+margin:20px;
+width:1660px;
+height:200px;
+border:2px ;
+background-color:white; 
+  border-radius:10px;
+}
+
+li { 
+  border: 2px ;
+  display: inline-block;
+
+
+}
+
+nav ul {
+  font-family:sans-serif;
+  height:30px;
+  border: 2px ;
+  list-style-type: none;
+  display:inline-block;
+  text-decoration: none;
+  color:black;
+  margin-left:700px;
+  margin-top:150px;
+  font-size:2em;  
+
+}
+ .row {
+  display: flex;
+  font-family:sans-serif;
+
+}
+.column-1, .column-2 {
+  flex: 1;
+  border:1px ;
+  text-align: center;
+  margin: 20px;
+  padding: 20px;
+  border-radius:10px; 
+  font-size:2em;
+  background-color:white; 
+}
+.column-2 img {
+	width:600px;
+	height:600px;
+	border-radius:10px; 
+	margin:10px;
+  background-color:white;  
+ 
+
+}
+.column-1 img {
+	border-radius:10px;
+  background-color:white; 
+
+
+}
+
+.column-1 {border:1px ;
+  background-color:white; 
+
+
+}
+.column-1 p {
+  border:1px ;
+  margin-top: 138px;
+  background-color:white; 
+
+} 
+a {
+  text-decoration: none;
+}
